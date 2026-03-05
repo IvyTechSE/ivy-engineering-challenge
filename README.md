@@ -21,6 +21,6 @@ Read the candidate instructions in [docs/submission-guide.md](docs/submission-gu
 
 ## Time Box
 
-Suggested effort: **3-5 hours implementation + up to 45 minutes documentation/prep**.
+Suggested effort: **4-8 hours**, with the option to spend additional time if you wish to explore or extend the task further.
 
 Candidates are expected to communicate assumptions and tradeoffs if they do not fully implement everything.
