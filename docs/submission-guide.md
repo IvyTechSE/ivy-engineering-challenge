@@ -5,17 +5,13 @@ It intentionally does not include a starter implementation.
 
 ## Submission Channel
 
-- Create your own submission repository (fork this repository or create a new repository from the same files).
-- Keep all work and final commits in your own submission repository.
-- Share your submission repository URL through the channel specified in your interview/application process.
+- Keep all work and final commits in your own submission repository (seperate invitation to Github Classroom).
 
 ## Steps
 
-1. Create your submission repository.
-2. Clone your submission repository locally.
-3. Implement your solution in any language/framework.
-4. Push commits to the default branch before the deadline.
-5. Share the repository URL using the requested submission channel.
+1. Clone your submission repository locally.
+2. Implement your solution in any language/framework.
+3. Push commits to the default branch.
 
 ## Required README Sections in Your Submission Repository
 
@@ -36,11 +32,9 @@ Your submission is considered complete when all are true:
 - Your final commit is pushed to the default branch in your submission repository.
 - The required `README` sections are present.
 - Any required run/test commands are included and accurate.
-- Your repository URL has been shared through the expected submission channel.
 
 ## Scope Expectations
 
-- Suggested effort: 3-5 hours coding and up to 45 minutes documentation/prep.
 - A partial implementation is acceptable if your assumptions and tradeoffs are clear.
 - Favor engineering quality over feature count.
 
